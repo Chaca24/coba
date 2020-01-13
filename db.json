@@ -13,7 +13,8 @@
         "4. Sematkan jarum pentul di hijab sisi kiri",
         "5. Tarik ujung sisi kiri hijab ke bahu kanan, sematkan jarum pentul."
         ]
-    },{
+    },
+    {
       "id": 2,
       "title": "hijab segi empat menutup dada",
       "subjudul":"Shireen Sungkar",
@@ -27,7 +28,8 @@
         "5. Buat bagian luarnya, kamu bisa rekatkan kembali dengan jarum pentul.",
         "6. Buat sisi kirinya, rekatkan di bahu sebelah kanan."
         ]
-    },{
+    },
+    {
       "id": 3,
       "title": "Segi Empat Dagu Terbuka",
       "subjudul":"Hijup",
@@ -41,7 +43,8 @@
         "5. Talikan kedua ujung kanan dan kiri kemudian tutup dengan lekukan sisi panjang tadi. Jadi deh"
         ]
     }
-  ],"pashmina": [
+  ],
+  "pashmina": [
     {
       "id": 1,
       "title": "Polos untuk Lebaran",
@@ -54,7 +57,8 @@
         "3. Tarik bagian kanan dan selipkan ke bahu kiri hingga berputar ke bagian kanan.",
         "4. Sematkan pentul di bagian kiri hijab kemudian rapikan."
         ]
-    },{
+    },
+    {
       "id": 2,
       "title": "Pashmina Jepit",
       "subjudul":"Rachel Venya",
@@ -65,7 +69,8 @@
         "2. Lalu sematkan pashmina dengan panjang kedua sisi yang sama tanpa memerlukan peniti atau jarum pentul.",
         "3. Untuk mempercantik penampilan mu, kamu bisa kenakan anting sebagai hiasan tambahan."
         ]
-    },{
+    },
+    {
       "id": 3,
       "title": "Pashmina Simple Syar’i Menutup Dada",
       "subjudul":"Hijup",
@@ -77,7 +82,8 @@
         "3. Bawa Sisi Hijab Ke Belakang Hingga Kembali ke Depan"
         ]
     }
-  ],"turban": [
+  ],
+  "turban": [
     {
       "id": 1,
       "title": "Turban yang Elegan",
@@ -92,7 +98,8 @@
         "5. Ikat dengan kencang, tak perlu pakai pentul atau peniti",
         "6. Rapikan bagian kiri dan kanan hijab"
         ]
-    },{
+    },
+    {
       "id": 2,
       "title": "Simple Turban",
       "subjudul":"Rima",
@@ -106,7 +113,8 @@
         "5. Lalu ambil sisi scarf yang lebih panjang dan pindahkan ke pundak sebelah kiri",
         "6. Setelah itu, gunakan sisi yang lebih panjang ini untuk membungkus bagian kepala depan"
         ]
-    },{
+    },
+    {
       "id": 3,
       "title": "Turban Pashmina Shifon",
       "subjudul":"Destryandri",
@@ -122,7 +130,8 @@
         "7. Sematkan aksesoris (bross) biar kelihatan cantik"
         ]
     }
-  ],"campur": [
+  ],
+  "campur": [
     {
       "id": 1,
       "title": "Hijab Casual",
@@ -136,7 +145,8 @@
         "4. Sematkan jarum pentul di hijab sisi kiri",
         "5. Tarik ujung sisi kiri hijab ke bahu kanan, sematkan jarum pentul."
         ]
-    },{
+    },
+    {
       "id": 2,
       "title": "Polos untuk Lebaran",
       "subjudul":"Hijup",
@@ -148,7 +158,8 @@
         "3. Tarik bagian kanan dan selipkan ke bahu kiri hingga berputar ke bagian kanan.",
         "4. Sematkan pentul di bagian kiri hijab kemudian rapikan."
         ]
-    },{
+    },
+    {
       "id": 3,
       "title": "Turban yang Elegan",
       "subjudul":"Hijup",
@@ -162,7 +173,8 @@
         "5. Ikat dengan kencang, tak perlu pakai pentul atau peniti",
         "6. Rapikan bagian kiri dan kanan hijab"
         ]
-    },{
+    },
+    {
       "id": 4,
       "title": "hijab segi empat menutup dada",
       "subjudul":"Shireen Sungkar",
@@ -176,7 +188,8 @@
         "5. Buat bagian luarnya, kamu bisa rekatkan kembali dengan jarum pentul.",
         "6. Buat sisi kirinya, rekatkan di bahu sebelah kanan."
         ]
-    },{
+    },
+    {
       "id": 5,
       "title": "Pashmina Jepit",
       "subjudul":"Rachel Venya",
@@ -187,7 +200,8 @@
         "2. Lalu sematkan pashmina dengan panjang kedua sisi yang sama tanpa memerlukan peniti atau jarum pentul.",
         "3. Untuk mempercantik penampilan mu, kamu bisa kenakan anting sebagai hiasan tambahan."
         ]
-    },{
+    },
+    {
       "id": 6,
       "title": "Simple Turban",
       "subjudul":"Rima",
